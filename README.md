@@ -32,7 +32,7 @@
 
 [twitter]: https://twitter.com/hugoaluque
 [instagram]: https://www.instagram.com/hugo.aluque/
-[linkedin]: linkedin.com/in/hhal/
+[linkedin]: https://www.linkedin.com/in/hhal/
 [Facebook]:https://www.facebook.com/hugo.anamuro.7/
 [Visual Studio Code]: https://code.visualstudio.com/
 [Java Script]: https://www.javascript.com/
