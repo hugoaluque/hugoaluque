@@ -1,6 +1,4 @@
-<p align="center">
-
-Hi there, I'm Hugo, I'm a Sanitary and Environmental Engineer with interest in Remote Sensing applied on Wildfire Monitoring and Water Quality of Inland Waters.  👋
+<p align="center">Hi there, I'm Hugo, I'm a Sanitary and Environmental Engineer with interest in Remote Sensing applied on Wildfire Monitoring and Water Quality of Inland Waters.  👋
 </p>
 
 
@@ -19,10 +17,10 @@ Hi there, I'm Hugo, I'm a Sanitary and Environmental Engineer with interest in R
 ### Connect with me:
 
 
-[<img align="left" alt="codeSTACKr | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | YouTube" width="25px" src="https://i.pinimg.com/originals/b7/63/69/b763699fd1fa3bfb374442593ae642e1.png" />][Facebook]
+[<img align="left" alt="Hugo | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Hugo | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Hugo | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Hugo | YouTube" width="25px" src="https://i.pinimg.com/originals/b7/63/69/b763699fd1fa3bfb374442593ae642e1.png" />][Facebook]
 <br />
 
 <br />
@@ -32,7 +30,7 @@ Hi there, I'm Hugo, I'm a Sanitary and Environmental Engineer with interest in R
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/3KC9nTquxi1g9A0TkzTIN8)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Hugo Spotify Playing" width="350" />](https://open.spotify.com/playlist/3KC9nTquxi1g9A0TkzTIN8)
 
 
 
