@@ -1,7 +1,7 @@
 <p align="center">Hi there, I'm Hugo, I'm a Sanitary and Environmental Engineer with interest in Remote Sensing applied on Wildfire Monitoring and Water Quality of Inland Waters.  👋
 </p>
 
-
+---
 
 ### Languages and Tools:
 
@@ -27,7 +27,6 @@
 <br />
 <br />
 
----
 
 </details>
 
