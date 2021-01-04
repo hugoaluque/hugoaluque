@@ -1,5 +1,4 @@
 <p align="center">
-
 Hi there, I'm Hugo, I'm a Sanitary and Environmental Engineer with interest in Remote Sensing applied on Wildfire Monitoring and Water Quality of Inland Waters.  👋
 </p>
 
@@ -34,21 +33,3 @@ Hi there, I'm Hugo, I'm a Sanitary and Environmental Engineer with interest in R
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/3KC9nTquxi1g9A0TkzTIN8)
-
-
-
----
-
-</details>
-
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[Facebook]:https://www.facebook.com/hugo.anamuro.7/
-[Visual Studio Code]: https://code.visualstudio.com/
-[Java Script]: https://www.javascript.com/
-[R Studio]: https://rstudio.com/
-[Google Earth Engine]:https://earthengine.google.com/
