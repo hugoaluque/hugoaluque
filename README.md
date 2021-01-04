@@ -1,4 +1,5 @@
 <p align="center">
+
 Hi there, I'm Hugo, I'm a Sanitary and Environmental Engineer with interest in Remote Sensing applied on Wildfire Monitoring and Water Quality of Inland Waters.  👋
 </p>
 
@@ -18,7 +19,6 @@ Hi there, I'm Hugo, I'm a Sanitary and Environmental Engineer with interest in R
 ### Connect with me:
 
 
-[<img align="left" alt="codeSTACKr | YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -33,3 +33,18 @@ Hi there, I'm Hugo, I'm a Sanitary and Environmental Engineer with interest in R
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/3KC9nTquxi1g9A0TkzTIN8)
+
+
+
+---
+
+</details>
+
+[twitter]: https://twitter.com/hugoaluque
+[instagram]: https://www.instagram.com/hugo.aluque/
+[linkedin]: linkedin.com/in/hhal/
+[Facebook]:https://www.facebook.com/hugo.anamuro.7/
+[Visual Studio Code]: https://code.visualstudio.com/
+[Java Script]: https://www.javascript.com/
+[R Studio]: https://rstudio.com/
+[Google Earth Engine]:https://earthengine.google.com/
