@@ -31,6 +31,6 @@
 
 
 <p align="center">
-<img src="https://c.tenor.com/DfKqpVkedOsAAAAd/wow-dance.gif" width="450px">
+<img src="https://c.tenor.com/zOoVaNGp6IsAAAAd/mario-game.gif" width="900px">
 </p>
 
