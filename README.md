@@ -1,9 +1,3 @@
-<h3 align="center">Hi there🤓, I'm Hugo, I'm a Sanitary and Environmental Engineer with interest in Remote Sensing 📡🛰️ applied on Wildfire Monitoring 🔥🔥 and Water🌊🌊 Quality of Inland Waters.  
-</h3>
-
----
-
-## SOCIAL
 <p align='center'>
 <a href="https://www.linkedin.com/in/hhal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/hugo.aluque/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -11,6 +5,15 @@
 <a href="https://twitter.com/hugoaluque"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> 
 <a href="https://github.com/qgispe"><img src="https://img.shields.io/badge/qgis-peru-%233BB300.svg?&style=for-the-badge&logo=qgis&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UCELlAubsErKAPlDdzvBZ1hQ"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+
+
+
+<h3 align="center">Hi there🤓, I'm Hugo, I'm a Sanitary and Environmental Engineer with interest in Remote Sensing 📡🛰️ applied on Wildfire Monitoring 🔥🔥 and Water🌊🌊 Quality of Inland Waters.  
+</h3>
+
+---
+
+
 
 
 </p>
