@@ -14,6 +14,7 @@
 
 
 </p>
+
 ---
 
 ##SKILLS
@@ -32,6 +33,7 @@
 <img src="https://aleen42.github.io/badges/src/photoshop.svg">
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
 </p>
+
 ---
 
 
